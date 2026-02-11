@@ -12,7 +12,7 @@ Apex Shield is an advanced security framework designed to harden Large Language 
 
 **Aegis Protocol:** A hardened "Internal Monologue" system that prevents the AI from leaking its system instructions.
 
-**Threat Perception:** An observability dashboard that flags suspicious patterns and "villainous" intent.
+**Threat Perception:** An observability dashboard that flags suspicious patterns and "bad" intent.
 
 ## 🚀 Deployment 
 
