@@ -4,6 +4,8 @@
 
 Apex Shield is an advanced security framework designed to harden Large Language Models (LLMs) against adversarial attacks, prompt injections, and data leakage. This system acts as armor for safe, secure, and ethical AI deployments, ensuring intelligence remains powerful but never compromised.
 
+"A hero is only as strong as the people they protect. Apex Shield ensures that while your AI builds the future, it never forgets who it serves."
+
 ## 🧑🏼‍🔬 Key Features (The Power Suite)
 
 **Sentinel Guardrails:** Real-time santization of incoming prompts to prevent "jailbreaking."
