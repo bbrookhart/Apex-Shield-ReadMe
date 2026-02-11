@@ -1,4 +1,4 @@
-# 🛡️ Apex Shield: Project Aegis
+# 🛡️ Apex Shield
 
 > **"The ultimate defense for the next generation of intelligence."**
 
